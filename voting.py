@@ -160,7 +160,7 @@ def selpl(): #pollresults
     sel.current(0)
     Button(pl,text='Get Results',command=results).grid(row=2,column=2)
 def about():
-    messagebox.showinfo('About','Developed by Andrew')
+    messagebox.showinfo('About','Developed by Yeswanth Sai')
 
 
 home=Tk()
